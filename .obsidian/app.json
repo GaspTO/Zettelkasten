@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "showLineNumber": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Untitled",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-PT"
+  ]
+}

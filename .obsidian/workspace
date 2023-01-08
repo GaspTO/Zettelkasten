@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "c88741260125845d",
+    "type": "split",
+    "children": [
+      {
+        "id": "519ed26ec3c338b8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DEEP LEARNING/Experiment_Notes/Shape-Texture Dimensionality/Resumo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a557b99cfda5d93d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de48972f27217d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66e4b43f671f2dad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27253ff77b452699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Robustness ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286
+  },
+  "right": {
+    "id": "2ba6083d49bafba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "30927694c839af82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075ec64189de2774",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEEP LEARNING/Experiment_Notes/Shape-Texture Dimensionality/Resumo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "50d514484d2999c0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c07b0a7d1a3c27a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 139
+  },
+  "active": "519ed26ec3c338b8",
+  "lastOpenFiles": [
+    "DEEP LEARNING/Methods/Debug Convnets with Deconvolutions.md",
+    "DEEP LEARNING/Methods/Explaining Latent Representations by Disentangling.md",
+    "DEEP LEARNING/Experiment_Notes/Shape-Texture Dimensionality/Shape-Texture dimensionality.md",
+    "DEEP LEARNING/Properties/Shape, Robustness and Vision/Partial success in closing the gap between human and machine vision (2021).md",
+    "DEEP LEARNING/Properties/Shape, Robustness and Vision/Origins Texture Bias in Convolutional Neural Networks (2019).md",
+    "DEEP LEARNING/Properties/Shape, Robustness and Vision/ImageNet-trained CNNs are biased towards texture (2018).md",
+    "DEEP LEARNING/Properties/Shape, Robustness and Vision/Are Transformers More Robust Than CNNs? (2021).md",
+    "DEEP LEARNING/Properties/Shape, Robustness and Vision/Are CNNs or ViTs more like human vision?.md",
+    "DEEP LEARNING/Experiment_Notes/Shape-Texture Dimensionality/Resumo.md",
+    "DEEP LEARNING/Experiment_Notes/Shape-Texture Dimensionality/previous_notes/Logits - StylizedVOC - 16 models.md"
+  ]
+}

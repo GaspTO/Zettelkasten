@@ -1,0 +1,300 @@
+{
+  "nodePositions": [
+    {
+      "id": "CS/Bibliographic Box/Bello et al. (2021).md",
+      "x": 5688.6845703125,
+      "y": 3271.556640625
+    },
+    {
+      "id": "CS/Bibliographic Box/Bishop (2006).md",
+      "x": -1025.9449462890625,
+      "y": -5499.7421875
+    },
+    {
+      "id": "CS/Bibliographic Box/Deng et al. (2009).md",
+      "x": 2452.8193359375,
+      "y": 3015.32470703125
+    },
+    {
+      "id": "CS/Bibliographic Box/Girshick (2015).md",
+      "x": -1786.508544921875,
+      "y": 2808.8505859375
+    },
+    {
+      "id": "CS/Bibliographic Box/Girshick et al (2014).md",
+      "x": -829.3399658203125,
+      "y": 2538.316162109375
+    },
+    {
+      "id": "CS/Bibliographic Box/Goodfellow et al. (2016).md",
+      "x": 675.5125122070312,
+      "y": -3029.396240234375
+    },
+    {
+      "id": "CS/Bibliographic Box/He et al. (2016).md",
+      "x": 5171.87109375,
+      "y": 2309.8349609375
+    },
+    {
+      "id": "CS/Bibliographic Box/Redmon et al. (2016-a).md",
+      "x": -3123.30126953125,
+      "y": -1332.4490966796875
+    },
+    {
+      "id": "CS/Bibliographic Box/Redmon et al. (2016-b).md",
+      "x": -5549.1103515625,
+      "y": 1052.228271484375
+    },
+    {
+      "id": "CS/Bibliographic Box/Ren et al. (2016).md",
+      "x": -4034.20751953125,
+      "y": 2941.7470703125
+    },
+    {
+      "id": "CS/Bibliographic Box/Russakovsky et al. (2015).md",
+      "x": 1106.225830078125,
+      "y": 2861.431884765625
+    },
+    {
+      "id": "CS/Main Box/ImageNet.md",
+      "x": 2275.864501953125,
+      "y": 2606.686767578125
+    },
+    {
+      "id": "CS/Main Box/ILSVRC.md",
+      "x": 920.7672119140625,
+      "y": 2459.474609375
+    },
+    {
+      "id": "CS/Main Box/ResNet.md",
+      "x": 4330.568359375,
+      "y": 1922.06005859375
+    },
+    {
+      "id": "CS/Main Box/ResNets are better than Plain Networks.md",
+      "x": 4198.93896484375,
+      "y": 2424.116943359375
+    },
+    {
+      "id": "CS/Main Box/More recent training techniques improve resnet performance (2021).md",
+      "x": 5388.345703125,
+      "y": 2730.315185546875
+    },
+    {
+      "id": "CS/Main Box/Weight decay should decrease when combining regularization methods (2021).md",
+      "x": 4942.94677734375,
+      "y": 2792.93798828125
+    },
+    {
+      "id": "CS/Main Box/Degradation problem may not be caused by vanishing gradients (2016).md",
+      "x": 5091.56982421875,
+      "y": 1777.3646240234375
+    },
+    {
+      "id": "CS/Main Box/R-CNN.md",
+      "x": -1007.994384765625,
+      "y": 2039.197998046875
+    },
+    {
+      "id": "CS/Main Box/Issues with R-CNN.md",
+      "x": -1269.404541015625,
+      "y": 2952.46484375
+    },
+    {
+      "id": "CS/Main Box/Fast R-CNN.md",
+      "x": -1571.45458984375,
+      "y": 1851.0509033203125
+    },
+    {
+      "id": "CS/Main Box/Region of Interest pooling layer.md",
+      "x": -1066.8255615234375,
+      "y": 1322.3604736328125
+    },
+    {
+      "id": "CS/Main Box/Faster R-CNN.md",
+      "x": -3325.9931640625,
+      "y": 2837.015869140625
+    },
+    {
+      "id": "CS/Main Box/Region Proposal Network.md",
+      "x": -3119.3671875,
+      "y": 1826.2310791015625
+    },
+    {
+      "id": "CS/Main Box/RPN used in Faster R-CNN.md",
+      "x": -3989.6640625,
+      "y": 2484.692138671875
+    },
+    {
+      "id": "CS/Main Box/Convolutional Neural Network.md",
+      "x": 78.35865020751953,
+      "y": -79.39244079589844
+    },
+    {
+      "id": "CS/Main Box/Convolution as a cross-correlation.md",
+      "x": 1335.546875,
+      "y": -3663.1015625
+    },
+    {
+      "id": "CS/Main Box/Non-linear activation function.md",
+      "x": 692.0189819335938,
+      "y": -2174.0712890625
+    },
+    {
+      "id": "CS/Main Box/Cross-correlation operation.md",
+      "x": 1612.142822265625,
+      "y": -3422.999755859375
+    },
+    {
+      "id": "CS/Main Box/Pooling operation.md",
+      "x": 345.9120178222656,
+      "y": -1710.7603759765625
+    },
+    {
+      "id": "CS/Main Box/Convolutional operation.md",
+      "x": 1189.06787109375,
+      "y": -3110.869873046875
+    },
+    {
+      "id": "CS/Main Box/Convolutional layer.md",
+      "x": 134.41107177734375,
+      "y": -2178.661865234375
+    },
+    {
+      "id": "CS/Main Box/Feedforward Neural Network.md",
+      "x": 454.6426086425781,
+      "y": -4577.81298828125
+    },
+    {
+      "id": "CS/Main Box/Artificial Neural Network.md",
+      "x": -250.34161376953125,
+      "y": -3866.249267578125
+    },
+    {
+      "id": "CS/Main Box/Multi-layer Perceptron.md",
+      "x": 512.3296508789062,
+      "y": -5389.626953125
+    },
+    {
+      "id": "CS/Main Box/Fully Connected layer.md",
+      "x": -1308.7498779296875,
+      "y": -4113.388671875
+    },
+    {
+      "id": "CS/Main Box/Hidden unit.md",
+      "x": -940.1355590820312,
+      "y": -4764.4775390625
+    },
+    {
+      "id": "CS/Main Box/Output unit activation.md",
+      "x": -667.5400390625,
+      "y": -5076.36279296875
+    },
+    {
+      "id": "CS/Main Box/Fully Connected Neural Network.md",
+      "x": -56.84485626220703,
+      "y": -5182.42529296875
+    },
+    {
+      "id": "CS/Main Box/Max pooling.md",
+      "x": -298.00579833984375,
+      "y": -336.6883239746094
+    },
+    {
+      "id": "CS/Main Box/Average pooling.md",
+      "x": 785.2113647460938,
+      "y": -1704.960205078125
+    },
+    {
+      "id": "CS/Main Box/Object detection.md",
+      "x": -2217.258544921875,
+      "y": 1853.96484375
+    },
+    {
+      "id": "CS/Main Box/Residual connection.md",
+      "x": 5607.26123046875,
+      "y": 1839.3309326171875
+    },
+    {
+      "id": "CS/Main Box/Residual function.md",
+      "x": 5958.8740234375,
+      "y": 2188.22265625
+    },
+    {
+      "id": "CS/Main Box/Object recognition.md",
+      "x": 181.63673400878906,
+      "y": 2400.90478515625
+    },
+    {
+      "id": "CS/Main Box/Faster R-CNN Loss function.md",
+      "x": -3708.519775390625,
+      "y": 3697.022705078125
+    },
+    {
+      "id": "CS/Main Box/Smooth L1 Loss.md",
+      "x": -2732.735595703125,
+      "y": 3630.814453125
+    },
+    {
+      "id": "CS/Main Box/How do Faster R-CNN predicting boxes relate to the anchor boxes?.md",
+      "x": -4308.04541015625,
+      "y": 3276.5478515625
+    },
+    {
+      "id": "CS/Main Box/YOLOv2.md",
+      "x": -3993.959228515625,
+      "y": 897.3229370117188
+    },
+    {
+      "id": "CS/Main Box/YOLOv1 Loss function.md",
+      "x": -3576.26416015625,
+      "y": -916.4922485351562
+    },
+    {
+      "id": "CS/Main Box/YOLOv1.md",
+      "x": -3377.80029296875,
+      "y": -209.32310485839844
+    },
+    {
+      "id": "CS/Main Box/YOLOv1 and Fast YOLO network designs.md",
+      "x": -2017.9423828125,
+      "y": -2117.247314453125
+    },
+    {
+      "id": "CS/Main Box/Anchor box.md",
+      "x": -4669.2197265625,
+      "y": 2310.444091796875
+    },
+    {
+      "id": "CS/Main Box/ResNet Results.md",
+      "x": 3373.0712890625,
+      "y": 2418.978515625
+    },
+    {
+      "id": "CS/Main Box/Using K-means to find good Anchor Boxes.md",
+      "x": -5235.88134765625,
+      "y": 1587.3140869140625
+    },
+    {
+      "id": "CS/Main Box/ResNet Architecture.md",
+      "x": 4828.63427734375,
+      "y": 2084.59423828125
+    },
+    {
+      "id": "CS/Main Box/Anchor Box Location Prediction relative to Grid Cell.md",
+      "x": -5488.6005859375,
+      "y": 1737.7625732421875
+    },
+    {
+      "id": "CS/Main Box/Higher resolution features to detect smaller Objects.md",
+      "x": -6081.8349609375,
+      "y": 920.5287475585938
+    },
+    {
+      "id": "CS/Main Box/YOLOv2 Anchor box.md",
+      "x": -4736.1865234375,
+      "y": 1168.509033203125
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}
