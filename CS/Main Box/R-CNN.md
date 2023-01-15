@@ -1,6 +1,6 @@
 ## Content
 The r-cnn was one of the first [[Object detection]] techniques to use [[Convolutional Neural Network|CNNs]]. The method is divided into three parts. 
-1. A [[region proposal method]] is used to determine a subsection of the image to analyse. At test time, 2000 region proposals are used. The specific region proposal method used is irrelevant, but [[Girshick et al (2014)]] uses [[selective search]].
+1. A [[region proposal method]] is used to determine a subsection of the image to analyse. At test time, 2000 region proposals are used. The specific region proposal method used is irrelevant, but [[Girshick et al, (2014)]] uses [[selective search]].
 2. A 4096-dimensional feature vector is extracted from that region using a pre-trained [[alexnet]] as the backbone.
 3. A bunch of [[support vector machine|SVMs]], one per class in the dataset, is used on the extracted features to score them. After this step, we get a list of regions for each class.
 
@@ -15,5 +15,5 @@ r-cnn also uses a [[bounding-box regression]].
 #potential-links - features?
 
 ## Source
-[[Girshick et al (2014)]]
+[[Girshick et al, (2014)]]
 
