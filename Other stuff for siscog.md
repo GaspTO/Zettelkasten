@@ -22,3 +22,6 @@
 	* Frustum PointNets for 3D Object Detection from RGB-D Data
 * 3D object reconstruction of pointclouds:
 	* Dense 3D Point Cloud Reconstruction Using a Deep Pyramid Network
+* 3D object tasks directly from pointcloud:
+	* PointCNN: Convolution On X-Transformed Points
+	* PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
