@@ -4,167 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6051f233d5f8c7a0",
+        "id": "15977f2f46a9d990",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba00178e21f3222",
+            "id": "97fb965a61bca03c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Axiom.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a03c57caf985b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Logical Statement.md",
+                "file": "CS/Resources/Companies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc56d5f78a0eb00c",
+            "id": "07ebee141ecf5e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Primitive Notion.md",
+                "file": "CS/Resources/Neural Network Intelligence.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70786de7ec43dca8",
+            "id": "0d1433105921b3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Combining statements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4aa02f87f35d048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Logical Conjunction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "665d56878d611a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Logical Negation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5264b7e0d8c0cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Logical Disjunction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aaf6d148867be8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/DeMorgan's Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32538493fecf13d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Logical Distributive Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac8ea7be633dcc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Logical Distributive Laws.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78853449a7dec2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Conditional Statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a29079e4f728a6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7181f0b33608138d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiple line detection with Hough Transform with Polar coordinate.md",
+                "file": "CS/Questions/How well do training regimes scale accross compound rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiple line detection with Hough Transform with Polar coordinate.md",
+                "file": "CS/Questions/How well do training regimes scale accross compound rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,17 +136,28 @@
     "width": 561,
     "collapsed": true
   },
-  "active": "66e4b43f671f2dad",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "0d1433105921b3e1",
   "lastOpenFiles": [
-    "Hough Transform for Lines.md",
-    "MATHEMATICS/Primitive Notion.md",
-    "MATHEMATICS/Accumulator array of the vector space.md",
-    "MATHEMATICS/Axiom.md",
-    "MATHEMATICS/Resources.md",
-    "MATHEMATICS/Tautology.md",
-    "Multiple line detection with Hough Transform with Polar coordinate.md",
-    "MATHEMATICS/Mathematical Proof.md",
-    "MATHEMATICS/Mathematical definition.md",
-    "MATHEMATICS/Logical Operator.md"
+    "CS/Resources/Neural Network Intelligence.md",
+    "CS/Resources/Companies.md",
+    "CS/Bibliographic Box/He et al (2019.md",
+    "CS/ImageNet pre-training for object detectors and segmentator is not always necessary, but it speeds up training.md",
+    "CS/Resources/Lightly.md",
+    "CS/Resources/Self-Supervised.md",
+    "self-supervised learning.md",
+    "CS/Semi-supervision.md",
+    "CS/Manifold assumption.md",
+    "CS/Low-density assumption.md"
   ]
 }
