@@ -4,167 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "6051f233d5f8c7a0",
+        "id": "692c2050319492c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba00178e21f3222",
+            "id": "8bc9577a92dbce8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Axiom.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a03c57caf985b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Logical Statement.md",
+                "file": "CS/To Read/BlobGAN Spatially Disentangled Scene Representations (2022).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc56d5f78a0eb00c",
+            "id": "81159d3a9779c45c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Primitive Notion.md",
+                "file": "CS/To Read/Paper List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70786de7ec43dca8",
+            "id": "92664f4bbf9f4e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Combining statements.md",
+                "file": "CS/Active Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4aa02f87f35d048",
+            "id": "285eaa9b670e8569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Logical Conjunction.md",
+                "file": "CS/The Softmax layer is bad to predict uncertainty.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "665d56878d611a5f",
+            "id": "dc93df9a7446cccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Logical Negation.md",
+                "file": "CS/Pool-based active learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5264b7e0d8c0cad",
+            "id": "47e5b71188f6f30e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Logical Disjunction.md",
+                "file": "CS/Active Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0aaf6d148867be8e",
+            "id": "49b7a72e5a94a924",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/DeMorgan's Laws.md",
+                "file": "CS/Query Strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32538493fecf13d9",
+            "id": "8cb3da439d5ec305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Logical Distributive Laws.md",
+                "file": "CS/Uncertainty-based query strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac8ea7be633dcc51",
+            "id": "ff9b5c6b22310202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Logical Distributive Laws.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78853449a7dec2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATHEMATICS/Conditional Statement.md",
+                "file": "CS/Diversity-based query strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a29079e4f728a6c7",
+            "id": "f3f0546a4361da2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Theorem.md",
+                "file": "What I am doing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7181f0b33608138d",
+            "id": "5a82a83e8699ba10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiple line detection with Hough Transform with Polar coordinate.md",
+                "file": "Other stuff for siscog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75fd17610608dd70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Bibliographic Box/Kellenberger et al. (2019).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiple line detection with Hough Transform with Polar coordinate.md",
+                "file": "CS/To Read/Paper List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,17 +244,28 @@
     "width": 561,
     "collapsed": true
   },
-  "active": "66e4b43f671f2dad",
+  "left-ribbon": {
+    "hiddenItems": {
+      "juggl:Juggl global graph": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "81159d3a9779c45c",
   "lastOpenFiles": [
+    "CS/To Read/Paper List.md",
+    "CS/To Read/BlobGAN Spatially Disentangled Scene Representations (2022).md",
+    "MATHEMATICS/Logical Operator.md",
     "Hough Transform for Lines.md",
-    "MATHEMATICS/Primitive Notion.md",
-    "MATHEMATICS/Accumulator array of the vector space.md",
-    "MATHEMATICS/Axiom.md",
-    "MATHEMATICS/Resources.md",
-    "MATHEMATICS/Tautology.md",
-    "Multiple line detection with Hough Transform with Polar coordinate.md",
-    "MATHEMATICS/Mathematical Proof.md",
-    "MATHEMATICS/Mathematical definition.md",
-    "MATHEMATICS/Logical Operator.md"
+    "CS/Active Learning.md",
+    "What I am doing.md",
+    "CS/Diversity-based query strategy.md",
+    "CS/Uncertainty-based query strategy.md",
+    "CS/Query Strategy.md",
+    "CS/Pool-based active learning.md"
   ]
 }
